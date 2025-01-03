@@ -28,7 +28,6 @@
 				>
 			</p>
 		</div>
-		<img src="/images/pana.svg" alt="" />
 	</div>
 	<div class="col-span-6 lg:col-span-4">
 		<div class="card-grid grid grid-cols-4 gap-4">
