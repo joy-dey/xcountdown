@@ -2,6 +2,8 @@
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08eef0ea-a322-491a-9265-10d2a86473cd/deploy-status)](https://app.netlify.com/projects/chimeintime/deploys)
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
