@@ -68,7 +68,7 @@ export 	const holidays = [
     {
         serial: '12',
         name: 'Christmas',
-        date: 'Dec 25, 2025',
+        date: 'Dec 25, 2026',
         style: "bg-sky-100 text-sky-800 ring-sky-500  rounded col-span-4"
     }
 ];
