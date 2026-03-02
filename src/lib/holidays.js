@@ -20,7 +20,7 @@ export 	const holidays = [
     {
         serial: '04',
         name: 'Holi',
-        date: 'Mar 03, 2026',
+        date: 'Mar 04, 2026',
         style: "bg-violet-100 text-violet-800 ring-violet-500 rounded col-span-4 md:col-span-1"
     },
     {
